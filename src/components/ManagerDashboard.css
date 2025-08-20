@@ -1,0 +1,33 @@
+.manager-dashboard {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #f0f7ff;
+  border-radius: 10px;
+}
+
+.manager-dashboard h2 {
+  margin-bottom: 20px;
+  color: #1a73e8;
+}
+
+.manager-dashboard section {
+  margin-bottom: 30px;
+}
+
+.manager-dashboard table {
+  width: 100%;
+  border-collapse: collapse;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.manager-dashboard th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+.manager-dashboard th {
+  background-color: #e1f0ff;
+}

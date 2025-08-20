@@ -1,0 +1,36 @@
+/* src/components/AdminDashboard.css */
+.admin-dashboard {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.admin-dashboard h2 {
+  margin-bottom: 20px;
+}
+
+.admin-dashboard section {
+  margin-bottom: 30px;
+}
+
+.admin-dashboard table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.admin-dashboard table, th, td {
+  border: 1px solid #ccc;
+}
+
+.admin-dashboard th, td {
+  padding: 8px;
+  text-align: left;
+}
+
+.admin-dashboard th {
+  background-color: #f4f4f4;
+}
+
+.summary ul {
+  list-style: none;
+  padding-left: 0;
+}
